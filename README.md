@@ -27,7 +27,8 @@ In both cases, the source class was <i>WithoutMask</i> (or just _Faces_ for simp
 
 ### Tomato disease classification
 In this application, GDAM-GAN was implemented to create fake samples of four different tomato leaf diseases (target classes) from healthy tomato leaves samples (source class). Some results are shown below:
-![Fake tomato disease samples from healthy tomato leaves samples](image/img_3.png)
+![Fake tomato disease samples from healthy tomato leaves samples](image/img_6.png)
+
 
 ### Leukocyte classification
 GDAM-GAN was implemented to create fake samples of monocytes and neutrophils (target classes), using samples of lymphocytes as the source class. Some results are shown below:
