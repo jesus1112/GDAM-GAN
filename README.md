@@ -39,7 +39,7 @@ GDAM-GAN was implemented to create fake samples of monocytes and neutrophils (ta
 This is a research project developed in Chihuahua Institute of Technology (Tecnológico Nacional de México Campus Chihuahua), and unfortunately there are some restrictions on sharing the implementation details. If you are interested in knowing more about this project, please see the contact section below. 
 
 ## Contact
-Jesus Alejandro Navarro Acosta. Student of Master of science in the area of digital signal processing.
+Jesus Alejandro Navarro Acosta B.Eng. Student in Chihuahua Institute of Technology, pursuing a Master of science in the area of digital signal processing.
 Email: jesus1112.jn@gmail.com
 
 [Mario I. Chacón-Murguía Ph.D.](https://ieeexplore.ieee.org/author/38289074200). Senior IEEE member and Research Professor with Chihuahua Institute of Technology
