@@ -12,7 +12,7 @@ The method consists of three main stages:
 2) Image-to-image translation model. Its purpose is to transform samples from the source class to the target class.
 3) Fake sample analysis and data cleaning. Its purpose is to select useful fake samples in a semi-automated way.  
 
-The idea is to combine the specific features of the target class with the variety of the source class to create new unseen samples that might be used to create fake-datasets and potentially improve the training of data-driven models. 
+The idea is to combine the specific features of the target class with the variety of the source class to create new unseen samples that might be used to build fake-datasets and potentially improve the training of data-driven models. 
 
 ## Fake data generation
 This method has been used for the following applications:
